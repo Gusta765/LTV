@@ -47,11 +47,3 @@ Estimar o **valor total que um cliente trará ao longo de 36 meses** com base no
 [![Email](https://img.shields.io/badge/Email-gustavobarbosa7744@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavobarbosa7744@gmail.com)
 
 ---
-"""
-
-# Salvar o conteúdo em um arquivo README.md
-readme_path = "/mnt/data/README_Starbucks_LTV.md"
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-readme_path
