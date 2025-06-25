@@ -1,5 +1,4 @@
-# Conteúdo do README.md formatado em Markdown com emojis e seções
-readme_content = """
+
 > **Modelo preditivo com 95% de confiança estatística para estimativa de LTV.**
 
 ---
